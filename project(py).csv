@@ -1,0 +1,12 @@
+SR.NO,Customer  Name,PhoneNumber,Gender,Address,visited
+1,Manali,9110641764,F,Address,freq
+2,Deepti,9740331166,F,Address,freq
+3,Chanchal,8951245098,F,Address,freq
+4,Vaishnavi,7894211876,F,Address,freq
+5,Anshita,3457892678,F,Address,less freq
+6,Rahul,9798953456,M,Address,more freq
+7,Dev,7019930674,M,Address,more freq
+8,Anand,9430956774,M,Address,more freq
+9,Manish,9867311198,M,Address,less freq
+10,Rajeev,2348976415,M,Address,less freq
+11,kamraj,1234567899,M,Address,less freq
